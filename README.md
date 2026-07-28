@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Shravan-009/leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Shravan-009/leetcode/tree/master/0268-missing-number) |
 | [0724-find-pivot-index](https://github.com/Shravan-009/leetcode/tree/master/0724-find-pivot-index) |
 | [0881-boats-to-save-people](https://github.com/Shravan-009/leetcode/tree/master/0881-boats-to-save-people) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Shravan-009/leetcode/tree/master/0189-rotate-array) |
 | [0881-boats-to-save-people](https://github.com/Shravan-009/leetcode/tree/master/0881-boats-to-save-people) |
 ## Greedy
 |  |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Shravan-009/leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Shravan-009/leetcode/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
