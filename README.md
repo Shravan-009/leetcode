@@ -8,10 +8,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Shravan-009/leetcode/tree/master/0724-find-pivot-index) |
 | [0881-boats-to-save-people](https://github.com/Shravan-009/leetcode/tree/master/0881-boats-to-save-people) |
 | [1046-last-stone-weight](https://github.com/Shravan-009/leetcode/tree/master/1046-last-stone-weight) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shravan-009/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [1046-last-stone-weight](https://github.com/Shravan-009/leetcode/tree/master/1046-last-stone-weight) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shravan-009/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -29,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/Shravan-009/leetcode/tree/master/0268-missing-number) |
 | [0881-boats-to-save-people](https://github.com/Shravan-009/leetcode/tree/master/0881-boats-to-save-people) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shravan-009/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
