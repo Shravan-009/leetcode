@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0316-remove-duplicate-letters](https://github.com/Shravan-009/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0881-boats-to-save-people](https://github.com/Shravan-009/leetcode/tree/master/0881-boats-to-save-people) |
 ## Sorting
 |  |
@@ -59,9 +60,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0058-length-of-last-word](https://github.com/Shravan-009/leetcode/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/Shravan-009/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0316-remove-duplicate-letters](https://github.com/Shravan-009/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0796-rotate-string](https://github.com/Shravan-009/leetcode/tree/master/0796-rotate-string) |
 ## String Matching
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Shravan-009/leetcode/tree/master/0796-rotate-string) |
+## Stack
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/Shravan-009/leetcode/tree/master/0316-remove-duplicate-letters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/Shravan-009/leetcode/tree/master/0316-remove-duplicate-letters) |
 <!---LeetCode Topics End-->
