@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Shravan-009/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Shravan-009/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Shravan-009/leetcode/tree/master/0283-move-zeroes) |
+| [0443-string-compression](https://github.com/Shravan-009/leetcode/tree/master/0443-string-compression) |
 | [0881-boats-to-save-people](https://github.com/Shravan-009/leetcode/tree/master/0881-boats-to-save-people) |
 ## Greedy
 |  |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Shravan-009/leetcode/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/Shravan-009/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0316-remove-duplicate-letters](https://github.com/Shravan-009/leetcode/tree/master/0316-remove-duplicate-letters) |
+| [0443-string-compression](https://github.com/Shravan-009/leetcode/tree/master/0443-string-compression) |
 | [0796-rotate-string](https://github.com/Shravan-009/leetcode/tree/master/0796-rotate-string) |
 ## String Matching
 |  |
