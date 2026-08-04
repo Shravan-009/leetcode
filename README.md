@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/Shravan-009/leetcode/tree/master/0881-boats-to-save-people) |
 | [1046-last-stone-weight](https://github.com/Shravan-009/leetcode/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shravan-009/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3731-find-missing-elements](https://github.com/Shravan-009/leetcode/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -42,10 +43,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Shravan-009/leetcode/tree/master/0268-missing-number) |
 | [0881-boats-to-save-people](https://github.com/Shravan-009/leetcode/tree/master/0881-boats-to-save-people) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shravan-009/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3731-find-missing-elements](https://github.com/Shravan-009/leetcode/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Shravan-009/leetcode/tree/master/0268-missing-number) |
+| [3731-find-missing-elements](https://github.com/Shravan-009/leetcode/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
 | ------- |
