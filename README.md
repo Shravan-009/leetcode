@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Shravan-009/leetcode/tree/master/0268-missing-number) |
+| [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/Shravan-009/leetcode/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [3731-find-missing-elements](https://github.com/Shravan-009/leetcode/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/Shravan-009/leetcode/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/Shravan-009/leetcode/tree/master/0443-string-compression) |
 | [0796-rotate-string](https://github.com/Shravan-009/leetcode/tree/master/0796-rotate-string) |
+| [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/Shravan-009/leetcode/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 ## String Matching
 |  |
 | ------- |
@@ -98,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/Shravan-009/leetcode/tree/master/0394-decode-string) |
+## Counting
+|  |
+| ------- |
+| [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/Shravan-009/leetcode/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 <!---LeetCode Topics End-->
