@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Shravan-009/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Shravan-009/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Shravan-009/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Shravan-009/leetcode/tree/master/0283-move-zeroes) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/Shravan-009/leetcode/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/Shravan-009/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Shravan-009/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0316-remove-duplicate-letters](https://github.com/Shravan-009/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/Shravan-009/leetcode/tree/master/0394-decode-string) |
