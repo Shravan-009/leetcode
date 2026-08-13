@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/Shravan-009/leetcode/tree/master/0881-boats-to-save-people) |
 | [1046-last-stone-weight](https://github.com/Shravan-009/leetcode/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shravan-009/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1572-matrix-diagonal-sum](https://github.com/Shravan-009/leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [3731-find-missing-elements](https://github.com/Shravan-009/leetcode/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -131,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shravan-009/leetcode/tree/master/0020-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shravan-009/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Matrix
+|  |
+| ------- |
+| [1572-matrix-diagonal-sum](https://github.com/Shravan-009/leetcode/tree/master/1572-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
