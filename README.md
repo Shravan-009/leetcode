@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Shravan-009/leetcode/tree/master/0283-move-zeroes) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Shravan-009/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0724-find-pivot-index](https://github.com/Shravan-009/leetcode/tree/master/0724-find-pivot-index) |
+| [0867-transpose-matrix](https://github.com/Shravan-009/leetcode/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/Shravan-009/leetcode/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/Shravan-009/leetcode/tree/master/0881-boats-to-save-people) |
 | [1046-last-stone-weight](https://github.com/Shravan-009/leetcode/tree/master/1046-last-stone-weight) |
@@ -137,9 +138,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/Shravan-009/leetcode/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Shravan-009/leetcode/tree/master/1572-matrix-diagonal-sum) |
 ## Sliding Window
 |  |
 | ------- |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Shravan-009/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Simulation
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/Shravan-009/leetcode/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
