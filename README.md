@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/Shravan-009/leetcode/tree/master/0881-boats-to-save-people) |
 | [1046-last-stone-weight](https://github.com/Shravan-009/leetcode/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shravan-009/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1563-stone-game-v](https://github.com/Shravan-009/leetcode/tree/master/1563-stone-game-v) |
 | [1572-matrix-diagonal-sum](https://github.com/Shravan-009/leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [3731-find-missing-elements](https://github.com/Shravan-009/leetcode/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Shravan-009/leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Shravan-009/leetcode/tree/master/0268-missing-number) |
 | [0877-stone-game](https://github.com/Shravan-009/leetcode/tree/master/0877-stone-game) |
+| [1563-stone-game-v](https://github.com/Shravan-009/leetcode/tree/master/1563-stone-game-v) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Shravan-009/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Binary Search
 |  |
@@ -111,10 +113,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Shravan-009/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0877-stone-game](https://github.com/Shravan-009/leetcode/tree/master/0877-stone-game) |
+| [1563-stone-game-v](https://github.com/Shravan-009/leetcode/tree/master/1563-stone-game-v) |
 ## Game Theory
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Shravan-009/leetcode/tree/master/0877-stone-game) |
+| [1563-stone-game-v](https://github.com/Shravan-009/leetcode/tree/master/1563-stone-game-v) |
 ## Recursion
 |  |
 | ------- |
