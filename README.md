@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/Shravan-009/leetcode/tree/master/0881-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shravan-009/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1386-cinema-seat-allocation](https://github.com/Shravan-009/leetcode/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/Shravan-009/leetcode/tree/master/1927-sum-game) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Shravan-009/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Sorting
 |  |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Shravan-009/leetcode/tree/master/0268-missing-number) |
 | [0877-stone-game](https://github.com/Shravan-009/leetcode/tree/master/0877-stone-game) |
 | [1563-stone-game-v](https://github.com/Shravan-009/leetcode/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/Shravan-009/leetcode/tree/master/1927-sum-game) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Shravan-009/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Shravan-009/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Binary Search
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shravan-009/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1446-consecutive-characters](https://github.com/Shravan-009/leetcode/tree/master/1446-consecutive-characters) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/Shravan-009/leetcode/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
+| [1927-sum-game](https://github.com/Shravan-009/leetcode/tree/master/1927-sum-game) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Shravan-009/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Shravan-009/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## String Matching
@@ -130,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0877-stone-game](https://github.com/Shravan-009/leetcode/tree/master/0877-stone-game) |
 | [1563-stone-game-v](https://github.com/Shravan-009/leetcode/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/Shravan-009/leetcode/tree/master/1927-sum-game) |
 ## Recursion
 |  |
 | ------- |
