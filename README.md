@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shravan-009/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1563-stone-game-v](https://github.com/Shravan-009/leetcode/tree/master/1563-stone-game-v) |
 | [1572-matrix-diagonal-sum](https://github.com/Shravan-009/leetcode/tree/master/1572-matrix-diagonal-sum) |
+| [1872-stone-game-viii](https://github.com/Shravan-009/leetcode/tree/master/1872-stone-game-viii) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Shravan-009/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Shravan-009/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Shravan-009/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/Shravan-009/leetcode/tree/master/0724-find-pivot-index) |
+| [1872-stone-game-viii](https://github.com/Shravan-009/leetcode/tree/master/1872-stone-game-viii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Shravan-009/leetcode/tree/master/0268-missing-number) |
 | [0877-stone-game](https://github.com/Shravan-009/leetcode/tree/master/0877-stone-game) |
 | [1563-stone-game-v](https://github.com/Shravan-009/leetcode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Shravan-009/leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Shravan-009/leetcode/tree/master/1927-sum-game) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Shravan-009/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Shravan-009/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -128,11 +131,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Shravan-009/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0877-stone-game](https://github.com/Shravan-009/leetcode/tree/master/0877-stone-game) |
 | [1563-stone-game-v](https://github.com/Shravan-009/leetcode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Shravan-009/leetcode/tree/master/1872-stone-game-viii) |
 ## Game Theory
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Shravan-009/leetcode/tree/master/0877-stone-game) |
 | [1563-stone-game-v](https://github.com/Shravan-009/leetcode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Shravan-009/leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Shravan-009/leetcode/tree/master/1927-sum-game) |
 ## Recursion
 |  |
@@ -176,4 +181,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Shravan-009/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Minimax
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/Shravan-009/leetcode/tree/master/1872-stone-game-viii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/Shravan-009/leetcode/tree/master/1872-stone-game-viii) |
 <!---LeetCode Topics End-->
